@@ -1,7 +1,16 @@
-<h3 align="left">Base Toolkit</h3>
+<h2 align="left">My technologies stack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,bash,mysql,aws)](https://skillicons.dev)
+<h3>Front-end</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinxynet&show_icons=true&locale=en" alt="jinxynet" /></p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+<h3>Back-end</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=java,go)](https://skillicons.dev)
+
+<h3>Cloud & DDBB</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,aws)](https://skillicons.dev)
+
 
 Contact: jinxynet@duck.com
