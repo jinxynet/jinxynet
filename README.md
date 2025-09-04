@@ -6,11 +6,7 @@
 
 <h3>Back-end</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,go)](https://skillicons.dev)
-
-<h3>Cloud & DDBB</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,aws,docker,redis)](https://skillicons.dev)
 
 
 Contact: jinxynet@duck.com
