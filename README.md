@@ -6,7 +6,7 @@
 
 <h3>Back-end</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,aws,docker,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,java,mysql,aws)](https://skillicons.dev)
 
 
 Contact: jinxynet@duck.com
