@@ -7,7 +7,7 @@ I mainly work with Java, JavaScript, and modern practices. I also have worked wi
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,jquery,java,spring,mysql,aws,windows,linux,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,jquery,java,spring,mysql,windows,linux,vscode,discord)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
