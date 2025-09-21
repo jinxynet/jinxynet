@@ -4,7 +4,6 @@ I’m currently working on improving my web development and database skills. I�
 I mainly work with Java, JavaScript, and modern practices. I also have worked with some PHP 
 
 📧 How to reach me: jinxynet@duck.com<br>
-🌐 Website: https://main.d1g0atuomr3bq2.amplifyapp.com/
 
 
 # 💻 Tech Stack:
