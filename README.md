@@ -5,11 +5,6 @@ I mainly work with Java, JavaScript, and modern practices. I also have worked wi
 
 📧 How to reach me: jinxynet@duck.com<br>
 
-
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,jquery,java,spring,mysql,windows,linux,vscode,discord)](https://skillicons.dev)
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jinxynet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jinxynet&theme=dark&hide_border=false)<br/>
