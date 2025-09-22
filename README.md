@@ -1,8 +1,5 @@
 # About Me
 I’m currently working on improving my web development and database skills. I’m looking to collaborate with indie teams or OSS projects   
-
-I mainly work with Java, JavaScript, and modern practices. I also have worked with some PHP 
-
 📧 How to reach me: jinxynet@duck.com<br>
 
 # 📊 GitHub Stats:
