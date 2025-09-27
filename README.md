@@ -4,7 +4,7 @@ I’m currently working on improving my web development and database skills, alo
 
 ## I try to specialize in the following technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,java,mysql,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,mysql,wordpress)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
