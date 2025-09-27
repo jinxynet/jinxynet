@@ -1,10 +1,18 @@
 # About Me
-I’m currently working on improving my web development and database skills, alongside other soft/hard skills useful for working as a developer. I’m looking to collaborate with indie teams or OSS projects   
+I’m currently working on improving my web development and database skills, alongside other soft/hard skills useful for working as a developer. I’m looking to collaborate with indie teams or OSS projects 
 📧 How to reach me: jinxynet@duck.com<br>
+🌐 https://161981890energypop-tbacw.wordpress.com/
 
 ## I try to specialize in the following technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,mysql,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,wordpress)](https://skillicons.dev)
+
+<ul>
+  <li>MariaDB</li>
+  <li>MongoDB</li>
+  <li>Neo4J</li>
+</ul>
+
 
 
 # 📊 GitHub Stats:
