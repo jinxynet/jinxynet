@@ -3,9 +3,6 @@ I’m currently working on improving my web development and database skills, alo
 📧 How to reach me: jinxynet@duck.com<br> 
 🌐 https://161981890energypop-tbacw.wordpress.com/
 
-## I try to specialize in the following technologies
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,wordpress)](https://skillicons.dev)
 
 <ul>
   <li>MariaDB</li>
