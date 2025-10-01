@@ -3,15 +3,9 @@ I’m currently working on improving my web development and database skills, alo
 📧 How to reach me: jinxynet@duck.com<br> 
 🌐 https://161981890energypop-tbacw.wordpress.com/
 
-Some databases I like
-<ul>
-  <li>MariaDB</li>
-  <li>MongoDB</li>
-  <li>Neo4J</li>
-</ul>
-
 # My heart 
-[![My Skills](https://skillicons.dev/icons?i=js,java,python,php)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,mysql)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jinxynet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
