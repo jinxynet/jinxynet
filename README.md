@@ -10,7 +10,8 @@ Some databases I like
   <li>Neo4J</li>
 </ul>
 
-
+# My heart 
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,php)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jinxynet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
