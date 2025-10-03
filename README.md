@@ -5,7 +5,12 @@ I’m currently working on improving my web development and database skills, alo
 
 # My heart 
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,python,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,php,mysql)](https://skillicons.dev)
+
+# Working on
+
+[![My Skills](https://skillicons.dev/icons?i=python,ts,vue,mongo,git,github)](https://skillicons.dev)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jinxynet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
