@@ -8,7 +8,7 @@ I’m currently working on improving my web development and database skills, alo
 
 # Other technologies I use 
 
-[![My Skills](https://skillicons.dev/icons?i=python,vue,mongo,nodejs,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,react,mongo,nodejs,git,github)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
