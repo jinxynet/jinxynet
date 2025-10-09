@@ -4,11 +4,11 @@ I’m currently working on improving my web development and database skills, alo
 
 # My heart 
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,postgresql)](https://skillicons.dev)
 
 # Other technologies I use 
 
-[![My Skills](https://skillicons.dev/icons?i=python,php,react,mongo,nodejs,git,github,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,git,github,wordpress)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
