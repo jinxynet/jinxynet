@@ -1,5 +1,5 @@
 # About Me
-I’m currently working on improving my web development and database skills, alongside other soft/hard skills useful for working as a web developer. I’m looking to collaborate with indie teams or OSS projects <br>
+Specializing in backend development with PHP while keeping up-to-date with Java and JavaScript. Studying how to automate processes using Bash for *NIX and PowerShell for Windows. Interesed in web and software security 
 🌐 https://161981890energypop-tbacw.wordpress.com/
 <br>
 
