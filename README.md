@@ -1,5 +1,5 @@
 # About Me
-Specializing in backend development with PHP while keeping up-to-date with Java and JavaScript. Studying how to automate processes using Bash for *NIX and PowerShell for Windows. Interesed in web and software security 
+Specializing in backend development with Java while keeping up-to-date with JavaScript standards. Studying how to automate processes using Bash for *NIX and PowerShell for Windows. Interesed in web and software security 
 🌐 https://161981890energypop-tbacw.wordpress.com/
 <br>
 
