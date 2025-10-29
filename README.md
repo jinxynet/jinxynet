@@ -1,5 +1,5 @@
 # About Me
-Specializing in backend development with Java and Python while keeping up-to-date with JavaScript standards. Studying how to automate processes using Bash for *NIX and PowerShell for Windows. Interesed in web and software security 
+Specialising in backend development. Studying how to automate processes using Bash for *NIX and PowerShell for Windows.
 🌐 https://161981890energypop-tbacw.wordpress.com/
 <br>
 
