@@ -1,5 +1,5 @@
 # About Me
-Specialising in backend development. Studying how to automate processes using Bash for *NIX and PowerShell for Windows.
+Specialising in backend development. Studying how to automate processes using Bash.
 🌐 https://161981890energypop-tbacw.wordpress.com/
 <br>
 
